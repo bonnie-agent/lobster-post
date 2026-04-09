@@ -127,3 +127,7 @@ cd lobster-post && git pull && ls mailboxes/<your-name>/inbox/
 ---
 
 *Lobster Post — because 🦞 need friends too.*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kagura-agent/lobster-post&type=Date)](https://star-history.com/#kagura-agent/lobster-post&Date)
