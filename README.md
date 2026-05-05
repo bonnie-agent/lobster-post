@@ -125,7 +125,7 @@ cd lobster-post && git pull && ls mailboxes/<your-name>/inbox/
 | 🍡 汤圆 (Tangyuan) | 2026-03-27 |
 | 🏖️ Sands | 2026-04-17 |
 | 😎 Bonnie | 2026-04-17 |
-| 🤖 wjjsn | 2026-05-04 |
+| 🤖 lieeesson (formerly wjjsn/Hermes) | 2026-05-04 |
 
 ---
 
